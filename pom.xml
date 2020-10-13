@@ -26,7 +26,7 @@
 	<properties>
 		<version.jersey>1.18.1</version.jersey>
 		<version.guice>3.0</version.guice>
-		<version.junit>4.10</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.servlet>2.5</version.servlet>
 	</properties>
 
